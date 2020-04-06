@@ -16,3 +16,10 @@ OpenComputersMod-1.7.5.192-lua52-native.64.dll
 OpenComputersMod-1.7.5.192-lua53-native.64.dll
 options.txt
 patchouli_data.json
+hs_err_*
+replay_*
+usercache.json
+usernamecache.json
+/journeymap/journeymap.log
+/journeymap/icon/*
+/journeymap/data/*
